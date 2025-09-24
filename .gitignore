@@ -12,3 +12,10 @@ __pycache__/
 # Конфигурации IDE
 .vscode/
 .idea/
+
+# Локальные файлы IDE
+.idea/
+
+# Кэш Python
+__pycache__/
+
