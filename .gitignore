@@ -1,0 +1,21 @@
+# Виртуальное окружение
+venv/
+
+# Файлы Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Логи
+*.log
+
+# Конфигурации IDE
+.vscode/
+.idea/
+
+# Локальные файлы IDE
+.idea/
+
+# Кэш Python
+__pycache__/
+
